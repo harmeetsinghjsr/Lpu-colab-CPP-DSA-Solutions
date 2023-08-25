@@ -4,7 +4,7 @@ using namespace std;
 
 class ComplexNumber{
     
-    int friend;
+    int x;
     void multiply(){
     }
     
